@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\Debug\ExamSys.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\Debug\ExamSys.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\Debug\ExamSys.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.FormMain.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.FormIDCheck.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\Debug\ExamSys.FormExamSet.resources

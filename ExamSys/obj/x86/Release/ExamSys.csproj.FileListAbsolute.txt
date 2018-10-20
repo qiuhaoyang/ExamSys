@@ -1,0 +1,14 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\x86\Release\ExamSys.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\x86\Release\ExamSys.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\x86\Release\ExamSys.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.FormExamSet.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.FormMain.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.FormIDCheck.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\x86\Release\ExamSys.exe.manifest
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\bin\x86\Release\ExamSys.application
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.exe.manifest
+C:\Users\Administrator\documents\visual studio 2015\Projects\ExamSys\ExamSys\obj\x86\Release\ExamSys.application
